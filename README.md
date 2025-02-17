@@ -20,7 +20,7 @@ Ensure the following Python libraries are installed:
 - **CVXPY**: For defining and solving convex optimization problems.
 - **MOSEK**: (for `fit_plrt_mosek.py`) A licensed solver for large-scale optimization problems.
 
-# For MOSEK, follow installation steps from https://www.mosek.com/downloads/
+### For MOSEK, follow installation steps from https://www.mosek.com/downloads/
 
 ## Code Description
 
